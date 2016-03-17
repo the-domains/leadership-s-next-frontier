@@ -1,0 +1,28 @@
+name: "Leadership's Next Frontier"
+favicon: null
+layout_spectrum: 0.5570830774959177
+typography_spectrum: 0.9686647572088987
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.0650527214165777
+  lightness: 0.08587130135856569
+  saturation: 0.09544483339414
+  rhythmicContrast: 0.8739985863212496
+purpose: []
